@@ -1,0 +1,19 @@
+div#cardContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+th{
+    border: 1px solid black;
+    padding: 5px;
+}

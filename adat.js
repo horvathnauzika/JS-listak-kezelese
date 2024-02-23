@@ -10,7 +10,7 @@ export const SZEMELYLISTA = [
     // másik objektum
     {
         nev: "Béla",
-        tel: "06-30-354-8841",
+        tel: "06-20-354-8841",
         kor: 21,
         barat: false
     }
